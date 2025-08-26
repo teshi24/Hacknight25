@@ -23,3 +23,7 @@
 - Start bluetooth and GPS on phone
   - DO NOT connect to any bluetooth device via the phone
 - Start app > scan > choose -SPP device (1234)
+
+## Last Hint of the Day
+
+- It's maybe a necessity to remove your robots balls.
